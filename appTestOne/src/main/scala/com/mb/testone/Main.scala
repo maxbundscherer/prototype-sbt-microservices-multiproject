@@ -1,8 +1,7 @@
 package com.mb.testone
 
-import java.util.logging.Logger
-
 import com.typesafe.config.ConfigFactory
+import org.apache.log4j.Logger
 
 object Main extends App {
 

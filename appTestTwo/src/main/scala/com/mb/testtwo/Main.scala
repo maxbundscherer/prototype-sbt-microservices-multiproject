@@ -1,9 +1,8 @@
 package com.mb.testtwo
 
-import java.util.logging.Logger
-
 import com.mb.helperexample.HelpMeNow
 import com.typesafe.config.ConfigFactory
+import org.apache.log4j.Logger
 
 object Main extends App {
 
