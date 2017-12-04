@@ -22,7 +22,7 @@ Author: Maximilian Bundscherer (https://bundscherer-online.de)
 - ScalaTest: *testing project*
 - sbt-scoverage: *generate test coverage report(s)*
 
-## Example project overview
+## Overview
 
 Example projects are:
 
