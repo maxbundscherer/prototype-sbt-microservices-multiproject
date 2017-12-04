@@ -9,5 +9,5 @@ object Main extends App {
 
   private val log: Logger = Logger.getLogger(this.getClass.getSimpleName)
 
-  log.info(s"Hello there! $appName")
+  log.info(s"Hello there! My name is $appName")
 }
